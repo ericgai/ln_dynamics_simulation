@@ -15,7 +15,7 @@ $k_{off}=\frac{1}{\tau}=0.125 hr^{-1}$
 
 Mandl *et al.* Proc. Natl. Acad. Sci. USA 2012  
 mean dwell time of CD4 T<sub>conv</sub> in a peripheral lymph node is 12.2h  
-thus egress rate per cell is $\frac{1}{12.\mathrm{hr}}=0.082\mathrm{hr}^{-1}$ 
+thus egress rate per cell is $\frac{1}{12.2\mathrm{hr}}=0.082\mathrm{hr}^{-1}$ 
 
 thus aggregate egress rate of CD4+ T<sub>conv</sub> is $0.082N \mathrm{hr}^{-1}$
 where $N$ is the total number of CD4+ T<sub>conv</sub> in the lymph node 
@@ -57,3 +57,6 @@ for each T cell to have visited the LN with 95% probability, it would take a mon
 
 there must be a marked increase in the entry rate of T cells during inflammation   
 but the paracortex only expands 2x in volume, and the exit rate would also be drastically reduced. at equilibrium this should lead to a much more significant increase in paracortex T cell mass $N=k_{in}/k_{out}$
+
+74% of circulating T cells are in the LN at any time. If ~1/30 of these are in the pLN, should represent ~2.5% of all circulating T cells. 2.5% * 2e7 = 5e5, checks out!
+
